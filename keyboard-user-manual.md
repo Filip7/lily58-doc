@@ -24,7 +24,7 @@ I really enjoy using and making this keyboard, and I hope you will too!
 
 There are a couple of ways to configure this keyboard. The best ways are using QMK directly and/or VIA software. We will dive deep into each one.  
 But there are some other firmwares that I haven't used, so I cannot recommend them based on not enough experience with them.  
-**Remember we are dealing with flashing firmware!** So tread carefully and do not fry your chip* :D  
+**Remember we are dealing with flashing firmware!** So tread carefully and do not fry your chip*:D  
 *Chip is easily replaceable in case of breakage.
 
 ### Quick Overview
@@ -33,13 +33,14 @@ Here is a quick overview and description of each tool:
 
 | Tool | Link | Description |
 |------|------|-------------|
-| QMK  | link | desc        |
-| VIA  | link | desc        |
-| ZMK  | link | desc        |
-| KMK  | link | desc        |
+| QMK  | [https://qmk.fm/](https://qmk.fm/) | Firmware for wired keyboards GPL 2.0 licence        |
+| VIA  | [https://www.caniusevia.com/](https://www.caniusevia.com/) | Online keyboard layout editor         |
+| ZMK  | [https://zmk.dev/](https://zmk.dev/) | Like QMK but for wireless keyboards as well and MIT licence        |
+| KMK  | [https://github.com/KMKfw/kmk_firmware](https://github.com/KMKfw/kmk_firmware) | Python firmware        |
 
 ### QMK
 
+[https://config.qmk.fm/#/keebio/bfo9000/LAYOUT](https://config.qmk.fm/#/keebio/bfo9000/LAYOUT)
 (To be added)
 
 ### VIA
